@@ -1,0 +1,11 @@
+git init
+git remote add origin github_url
+git add .
+git commit -m"Message"
+git pust origin main
+
+
+new brach 
+git checkout -b "name"
+already branch
+git checkout branch_name
