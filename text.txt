@@ -9,3 +9,8 @@ new brach
 git checkout -b "name"
 already branch
 git checkout branch_name
+
+
+check github_url
+git config--get remote.origin.url //add remote
+git remote -v
